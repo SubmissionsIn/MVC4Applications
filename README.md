@@ -1,13 +1,13 @@
 # MVC4Applications
 This repository lists some papers using (related to) MVC methods for applications. We hope to investigate the special issues in application scenarios of multi-view cluster analysis, to achieve the future improvements on MVC algorithms, so feel free to contact me in this repository for updating or changing.
 
-1. Multi-view clustering based on graph-regularized nonnegative matrix factorization for object recognition, **[Zhang et al.](https://www.sciencedirect.com/science/article/pii/S0020025517311015?casa_token=tEmaDKHmUV0AAAAA:TJOLFTZsIM0vBWX_SsfNY1KrGzQIPgxH5q1w7uDmXHdVfnSGAq7e_fDfYWaz02zjl1AUIIE_hw)**.
+1. Multi-view clustering based on graph-regularized nonnegative matrix factorization for object recognition, **[Zhang et al.](https://www.sciencedirect.com/science/article/pii/S0020025517311015?casa_token=tEmaDKHmUV0AAAAA:TJOLFTZsIM0vBWX_SsfNY1KrGzQIPgxH5q1w7uDmXHdVfnSGAq7e_fDfYWaz02zjl1AUIIE_hw)**
 
-2. CMC: A consensus multi-view clustering model for predicting Alzheimer's disease progression, **[Zhang et al.](https://www.sciencedirect.com/science/article/pii/S0169260720317284?casa_token=vL8d7d6nx4wAAAAA:jUH-FeOLCDJ_PqGmWZ56pVzim1FoCioMC5qdYYh61vIVE6l8D8OHf68W-FbMRQWk2fDv28aEqA)**.
+2. CMC: A consensus multi-view clustering model for predicting Alzheimer's disease progression, **[Zhang et al.](https://www.sciencedirect.com/science/article/pii/S0169260720317284?casa_token=vL8d7d6nx4wAAAAA:jUH-FeOLCDJ_PqGmWZ56pVzim1FoCioMC5qdYYh61vIVE6l8D8OHf68W-FbMRQWk2fDv28aEqA)**
 
-3. A robust multi-view clustering method for community detection combining link and content information, **[He et al.](https://www.sciencedirect.com/science/article/pii/S0378437118312184?casa_token=cTuxJjYlkBAAAAAA:qtd4VrAS0PXxlF0RTZSNiHQ45_YXmJ3ovcl5k1Pcw89nbgYZYZtgvwBYlN2pakD5INaKD9tHEw)**.
+3. A robust multi-view clustering method for community detection combining link and content information, **[He et al.](https://www.sciencedirect.com/science/article/pii/S0378437118312184?casa_token=cTuxJjYlkBAAAAAA:qtd4VrAS0PXxlF0RTZSNiHQ45_YXmJ3ovcl5k1Pcw89nbgYZYZtgvwBYlN2pakD5INaKD9tHEw)**
 
-4. An Analysis of Current Trends in CBR Research Using Multiview Clustering, **[Greene et al.](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2243)**.
+4. An Analysis of Current Trends in CBR Research Using Multiview Clustering, **[Greene et al.](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2243)**
 
 5. Research on children's respiratory diseases based on partition level multi-view clustering,
 
