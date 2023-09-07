@@ -15,9 +15,9 @@ This repository lists related work using MVC methods for applications. We hope t
 
 6. Multi-View Spectral Clustering Based on Multi-Smooth Representation Fusion for Cancer Subtype Prediction, **[Liu et al.](https://www.frontiersin.org/articles/10.3389/fgene.2021.718915/full)**
 
-7. MLysPRED: graph-based multi-view clustering and multi-dimensional normal distribution resampling techniques to predict multiple lysine sites, **[Zuo et al.](https://academic.oup.com/bib/article/23/5/bbac277/6661182)**
+7. Multi-view spectral clustering with latent representation learning for applications on multi-omics cancer subtyping, **[Ge et al.](https://academic.oup.com/bib/article/24/1/bbac500/6850565)**
 
-8. Multi-view fusion segmentation for brain glioma on CT images, **[Wang et al.](https://link.springer.com/article/10.1007/s10489-021-02784-7)**
+8. MLysPRED: graph-based multi-view clustering and multi-dimensional normal distribution resampling techniques to predict multiple lysine sites, **[Zuo et al.](https://academic.oup.com/bib/article/23/5/bbac277/6661182)**
 
 9. Research on children's respiratory diseases based on partition level multi-view clustering, **[Zhang et al.](https://doi.org/10.1117/12.2687644)**
 
