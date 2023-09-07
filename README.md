@@ -49,4 +49,18 @@ This repository lists related work using MVC methods for applications. We hope t
 
 23. An Analysis of Current Trends in CBR Research Using Multiview Clustering, **[Greene et al.](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2243)**
 
+24. Deep Multimodal Clustering for Unsupervised Audiovisual Learning, **[Hu et al.](https://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Deep_Multimodal_Clustering_for_Unsupervised_Audiovisual_Learning_CVPR_2019_paper.html)**
+
+25. Graph-Based Multimodal Clustering for Social Event Detection in Large Collections of Images, **[Petkos et al.](https://link.springer.com/chapter/10.1007/978-3-319-04114-8_13)**
+
+26. Social event detection using multimodal clustering and integrating supervisory signals, **[Petkos et al.](https://dl.acm.org/doi/abs/10.1145/2324796.2324825)**
+
+27. Clustering of single-cell multi-omics data with a multimodal deep learning method, **[Lin et al.](https://www.nature.com/articles/s41467-022-35031-9)**
+
+28. Multimodal Clustering for Community Detection, **[Ignatov et al.](https://link.springer.com/chapter/10.1007/978-3-319-64167-6_4)**
+
+29. Multigraph Spectral Clustering for Joint Content Delivery and Scheduling in Beam-Free Satellite Communications, **[Vázquez et al.](https://ieeexplore.ieee.org/abstract/document/9053805)**
+
+30. Multi-graph Clustering Based on Interior-Node Topology with Applications to Brain Networks, **[Ma et al.](https://link.springer.com/chapter/10.1007/978-3-319-46128-1_30)**
+
 To be updated...
