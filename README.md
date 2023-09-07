@@ -40,3 +40,6 @@ This repository lists some papers using (related to) MVC methods for application
 19. Social web video clustering based on multi-view clustering via nonnegative matrix factorization,
 
 20. Web Items Recommendation Based on Multi-View Clustering
+
+
+To be updated...
