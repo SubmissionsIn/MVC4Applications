@@ -1,5 +1,5 @@
 # MVC4Applications
-This repository lists related work using MVC methods for applications. We hope to investigate the special issues in application scenarios of multi-view cluster analysis, to achieve the future improvements on MVC algorithms for this community, so feel free to contact me in this repository for updating or changing (recommended paper, datasource, code...).
+This repository lists related work using MVC methods for applications. We hope to investigate the special issues in application scenarios of multi-view cluster analysis, to achieve the future improvements on MVC algorithms for this community, so feel free to contact me in this repository for updating (recommended paper, datasource, code...).
 
 ## Recommended papers:
 
