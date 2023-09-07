@@ -1,7 +1,7 @@
 # MVC4Applications
-This repository lists related work using MVC methods for applications. We hope to investigate the special issues in application scenarios of multi-view cluster analysis, to achieve the future improvements on MVC algorithms for this community, so feel free to contact me in this repository for updating or changing (paper, datasource, code...).
+This repository lists related work using MVC methods for applications. We hope to investigate the special issues in application scenarios of multi-view cluster analysis, to achieve the future improvements on MVC algorithms for this community, so feel free to contact me in this repository for updating or changing (recommended paper, datasource, code...).
 
-## Recommend papers:
+## Recommended papers:
 
 1. Multi-view clustering based on graph-regularized nonnegative matrix factorization for object recognition, **[Zhang et al.](https://www.sciencedirect.com/science/article/pii/S0020025517311015?casa_token=tEmaDKHmUV0AAAAA:TJOLFTZsIM0vBWX_SsfNY1KrGzQIPgxH5q1w7uDmXHdVfnSGAq7e_fDfYWaz02zjl1AUIIE_hw)**
 
