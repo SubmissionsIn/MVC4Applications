@@ -63,4 +63,6 @@ This repository lists related work using MVC methods for applications. We hope t
 
 30. Multi-graph Clustering Based on Interior-Node Topology with Applications to Brain Networks, **[Ma et al.](https://link.springer.com/chapter/10.1007/978-3-319-46128-1_30)**
 
+31. Attributed multiplex graph clustering: A heuristic clustering-aware network embedding approach, **[Han et al.](https://www.sciencedirect.com/science/article/pii/S0378437121009699?casa_token=5eAu_aXSc9wAAAAA:QaC4ulblpVc1PT3jnq1BrvLwEc3sQ_GXuyVpBRxzIIEcPxyzLjuuIMf-cQUDouulSO1PFhUlFg)**
+
 To be updated...
