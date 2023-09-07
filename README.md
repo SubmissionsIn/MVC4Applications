@@ -21,26 +21,26 @@ This repository lists related work using MVC methods for applications. We hope t
 
 9. Research on children's respiratory diseases based on partition level multi-view clustering, **[Zhang et al.](https://doi.org/10.1117/12.2687644)**
 
-10. An Analysis of Current Trends in CBR Research Using Multiview Clustering, **[Greene et al.](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2243)**
+10. Comment-based Multi-View Clustering of Web 2.0 Items, **[He et al.](https://dl.acm.org/doi/abs/10.1145/2566486.2567975)**
 
-11. Comment-based Multi-View Clustering of Web 2.0 Items, **[He et al.](https://dl.acm.org/doi/abs/10.1145/2566486.2567975)**
+11. Social web video clustering based on multi-view clustering via nonnegative matrix factorization, **[Mekthanavanh et al.](https://link.springer.com/article/10.1007/s13042-018-00902-5)**
 
-12. Multi-View Clustering of Web Documents using Multi-Objective Genetic Algorithm, **[Wahid et al.](https://ieeexplore.ieee.org/abstract/document/6900586)**
+12. Web Items Recommendation Based on Multi-View Clustering, **[Yu et al.](https://ieeexplore.ieee.org/abstract/document/8377689)**
 
-13. Multi-view clustering for mining heterogeneous social network data, **[Greene et al.](https://www.researchgate.net/profile/Derek-Greene/publication/222089360_Multi-view_clustering_for_mining_heterogeneous_social_network_data/links/09e41510e75e85bf3d000000/Multi-view-clustering-for-mining-heterogeneous-social-network-data.pdf)**
+13. Multi-View Clustering of Web Documents using Multi-Objective Genetic Algorithm, **[Wahid et al.](https://ieeexplore.ieee.org/abstract/document/6900586)**
 
-14. A robust multi-view clustering method for community detection combining link and content information, **[He et al.](https://www.sciencedirect.com/science/article/pii/S0378437118312184?casa_token=cTuxJjYlkBAAAAAA:qtd4VrAS0PXxlF0RTZSNiHQ45_YXmJ3ovcl5k1Pcw89nbgYZYZtgvwBYlN2pakD5INaKD9tHEw)**
+14. Multi-view clustering for mining heterogeneous social network data, **[Greene et al.](https://www.researchgate.net/profile/Derek-Greene/publication/222089360_Multi-view_clustering_for_mining_heterogeneous_social_network_data/links/09e41510e75e85bf3d000000/Multi-view-clustering-for-mining-heterogeneous-social-network-data.pdf)**
 
-15. Social web video clustering based on multi-view clustering via nonnegative matrix factorization, **[Mekthanavanh et al.](https://link.springer.com/article/10.1007/s13042-018-00902-5)**
+15. A robust multi-view clustering method for community detection combining link and content information, **[He et al.](https://www.sciencedirect.com/science/article/pii/S0378437118312184?casa_token=cTuxJjYlkBAAAAAA:qtd4VrAS0PXxlF0RTZSNiHQ45_YXmJ3ovcl5k1Pcw89nbgYZYZtgvwBYlN2pakD5INaKD9tHEw)**
 
-16. Web Items Recommendation Based on Multi-View Clustering, **[Yu et al.](https://ieeexplore.ieee.org/abstract/document/8377689)**
+16. Multi-view multi-objective clustering-based framework for scientific document summarization using citation context, **[Saini et al.](https://link.springer.com/article/10.1007/s10489-022-04166-z)**
 
 17. Multi-View Clustering-Based Time Series Empirical Tropospheric Delay Correction, **[Gao et al.](https://ieeexplore.ieee.org/abstract/document/10121341)**
 
-18. Multi-view multi-objective clustering-based framework for scientific document summarization using citation context, **[Saini et al.](https://link.springer.com/article/10.1007/s10489-022-04166-z)**
+18. An Equivalent Model of Wind Farm Based on Multivariate Multi-Scale Entropy and Multi-View Clustering, **[Han et al.](https://www.mdpi.com/1996-1073/15/16/6054)**
 
-19. An Equivalent Model of Wind Farm Based on Multivariate Multi-Scale Entropy and Multi-View Clustering, **[Han et al.](https://www.mdpi.com/1996-1073/15/16/6054)**
+19. Multi-view clustering based on graph-regularized nonnegative matrix factorization for object recognition, **[Zhang et al.](https://www.sciencedirect.com/science/article/pii/S0020025517311015?casa_token=tEmaDKHmUV0AAAAA:TJOLFTZsIM0vBWX_SsfNY1KrGzQIPgxH5q1w7uDmXHdVfnSGAq7e_fDfYWaz02zjl1AUIIE_hw)**
 
-20. Multi-view clustering based on graph-regularized nonnegative matrix factorization for object recognition, **[Zhang et al.](https://www.sciencedirect.com/science/article/pii/S0020025517311015?casa_token=tEmaDKHmUV0AAAAA:TJOLFTZsIM0vBWX_SsfNY1KrGzQIPgxH5q1w7uDmXHdVfnSGAq7e_fDfYWaz02zjl1AUIIE_hw)**
+20. An Analysis of Current Trends in CBR Research Using Multiview Clustering, **[Greene et al.](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2243)**
 
 To be updated...
