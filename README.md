@@ -3,8 +3,9 @@ This repository lists related work using MVC methods for applications. We hope t
 
 ## Recommended papers:
 
----
-DEMOC: a deep embedded multi-omics learning approach for clustering single-cell CITE-seq data, **(Zou et al.)[https://web.s.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=0&sid=eeb49590-883f-4d77-bc09-6f175f455e0d%40redis]**
+___
+
+DEMOC: a deep embedded multi-omics learning approach for clustering single-cell CITE-seq data, **[Zou et al.](https://web.s.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=0&sid=eeb49590-883f-4d77-bc09-6f175f455e0d%40redis)**
 
 A multiobjective multi-view cluster ensemble technique: Application in patient subclassification, **[Mitra et al.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216904)**
 
@@ -34,9 +35,9 @@ Multi-graph Clustering Based on Interior-Node Topology with Applications to Brai
 
 Clustering of single-cell multi-omics data with a multimodal deep learning method, **[Lin et al.](https://www.nature.com/articles/s41467-022-35031-9)**
 
----
+___
 
-Task-optimized User Clustering based on Mobile App Usage for Cold-start Recommendations, **(Liu et al.)[https://dl.acm.org/doi/pdf/10.1145/3534678.3539105]**
+Task-optimized User Clustering based on Mobile App Usage for Cold-start Recommendations, **[Liu et al.](https://dl.acm.org/doi/pdf/10.1145/3534678.3539105)**
 
 Comment-based Multi-View Clustering of Web 2.0 Items, **[He et al.](https://dl.acm.org/doi/abs/10.1145/2566486.2567975)**
 
@@ -58,7 +59,7 @@ Graph-Based Multimodal Clustering for Social Event Detection in Large Collection
 
 Social event detection using multimodal clustering and integrating supervisory signals, **[Petkos et al.](https://dl.acm.org/doi/abs/10.1145/2324796.2324825)**
 
----
+___
 
 Multi-View Clustering-Based Time Series Empirical Tropospheric Delay Correction, **[Gao et al.](https://ieeexplore.ieee.org/abstract/document/10121341)**
 
@@ -68,7 +69,7 @@ An Analysis of Current Trends in CBR Research Using Multiview Clustering, **[Gre
 
 Multigraph Spectral Clustering for Joint Content Delivery and Scheduling in Beam-Free Satellite Communications, **[Vázquez et al.](https://ieeexplore.ieee.org/abstract/document/9053805)**
 
----
+___
 
 Deep Multimodal Clustering for Unsupervised Audiovisual Learning, **[Hu et al.](https://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Deep_Multimodal_Clustering_for_Unsupervised_Audiovisual_Learning_CVPR_2019_paper.html)**
 
