@@ -3,8 +3,6 @@ This repository lists related work using MVC methods for applications. We hope t
 
 ## Recommended papers:
 
-___
-
 DEMOC: a deep embedded multi-omics learning approach for clustering single-cell CITE-seq data, **[Zou et al.](https://web.s.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=0&sid=eeb49590-883f-4d77-bc09-6f175f455e0d%40redis)**
 
 A multiobjective multi-view cluster ensemble technique: Application in patient subclassification, **[Mitra et al.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216904)**
