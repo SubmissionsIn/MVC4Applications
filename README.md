@@ -3,7 +3,7 @@ This repository lists related work using MVC methods for applications. We hope t
 
 ## Recommended papers:
 
-DEMOC: a deep embedded multi-omics learning approach for clustering single-cell CITE-seq data, **[Zou et al.](https://web.s.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=0&sid=eeb49590-883f-4d77-bc09-6f175f455e0d%40redis)**
+DEMOC: a deep embedded multi-omics learning approach for clustering single-cell CITE-seq data, **[Zou et al.](https://doi.org/10.1093/bib/bbac347)**
 
 Recursive integration of synergised graph representations of multi-omics data for cancer subtypes identification, **[Madhumita et al.](https://www.nature.com/articles/s41598-022-17585-2)**
 
