@@ -5,6 +5,8 @@ This repository lists related work using MVC methods for applications. We hope t
 
 DEMOC: a deep embedded multi-omics learning approach for clustering single-cell CITE-seq data, **[Zou et al.](https://doi.org/10.1093/bib/bbac347)**
 
+scBridge embraces cell heterogeneity in single-cell RNA-seq and ATAC-seq data integration, **[Li et al.](https://www.nature.com/articles/s41467-023-41795-5)**
+
 Recursive integration of synergised graph representations of multi-omics data for cancer subtypes identification, **[Madhumita et al.](https://www.nature.com/articles/s41598-022-17585-2)**
 
 A multiobjective multi-view cluster ensemble technique: Application in patient subclassification, **[Mitra et al.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216904)**
