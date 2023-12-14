@@ -1,11 +1,17 @@
-# MVC4Applications
+![image](https://github.com/SubmissionsIn/MVC4Applications/assets/59791286/0fbe67d5-0cad-46ac-9950-4701ccf32f8e)# MVC4Applications
 This repository lists related work using MVC methods for applications. We hope to investigate the special issues in application scenarios of multi-view clustering analysis, to achieve the future improvements on MVC algorithms for this community, so feel free to contact me in this repository for updating (recommended paper, datasource, code...).
 
 ## Recommended papers:
 
+# Medical data analysis
+
 DEMOC: a deep embedded multi-omics learning approach for clustering single-cell CITE-seq data, **[Zou et al.](https://doi.org/10.1093/bib/bbac347)**
 
 scBridge embraces cell heterogeneity in single-cell RNA-seq and ATAC-seq data integration, **[Li et al.](https://www.nature.com/articles/s41467-023-41795-5)**
+
+Biotypes of major depressive disorder identified by a multiview clustering framework, **[Chen et al.](https://www.sciencedirect.com/science/article/pii/S0165032723002860)**
+
+Multi-omics clustering based on dual contrastive learning for cancer subtype identification, **[Chen et al.](https://dl.acm.org/doi/abs/10.1145/3570773.3570883)**
 
 Recursive integration of synergised graph representations of multi-omics data for cancer subtypes identification, **[Madhumita et al.](https://www.nature.com/articles/s41598-022-17585-2)**
 
@@ -37,7 +43,7 @@ Multi-graph Clustering Based on Interior-Node Topology with Applications to Brai
 
 Clustering of single-cell multi-omics data with a multimodal deep learning method, **[Lin et al.](https://www.nature.com/articles/s41467-022-35031-9)**
 
-___
+# Internet data analysis
 
 Task-optimized User Clustering based on Mobile App Usage for Cold-start Recommendations, **[Liu et al.](https://dl.acm.org/doi/pdf/10.1145/3534678.3539105)**
 
@@ -61,7 +67,7 @@ Graph-Based Multimodal Clustering for Social Event Detection in Large Collection
 
 Social event detection using multimodal clustering and integrating supervisory signals, **[Petkos et al.](https://dl.acm.org/doi/abs/10.1145/2324796.2324825)**
 
-___
+# Industrial multi-view/modal
 
 Multi-View Clustering-Based Time Series Empirical Tropospheric Delay Correction, **[Gao et al.](https://ieeexplore.ieee.org/abstract/document/10121341)**
 
@@ -71,7 +77,7 @@ An Analysis of Current Trends in CBR Research Using Multiview Clustering, **[Gre
 
 Multigraph Spectral Clustering for Joint Content Delivery and Scheduling in Beam-Free Satellite Communications, **[Vázquez et al.](https://ieeexplore.ieee.org/abstract/document/9053805)**
 
-___
+# Other machine learning tasks
 
 Deep Multimodal Clustering for Unsupervised Audiovisual Learning, **[Hu et al.](https://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Deep_Multimodal_Clustering_for_Unsupervised_Audiovisual_Learning_CVPR_2019_paper.html)**
 
@@ -80,5 +86,7 @@ Multi-view clustering based on graph-regularized nonnegative matrix factorizatio
 MMatch: Semi-Supervised Discriminative Representation Learning for Multi-View Classification, **[Wang et al.](https://ieeexplore.ieee.org/abstract/document/9733884)**
     
 Attributed multiplex graph clustering: A heuristic clustering-aware network embedding approach, **[Han et al.](https://www.sciencedirect.com/science/article/pii/S0378437121009699?casa_token=5eAu_aXSc9wAAAAA:QaC4ulblpVc1PT3jnq1BrvLwEc3sQ_GXuyVpBRxzIIEcPxyzLjuuIMf-cQUDouulSO1PFhUlFg)**
+
+#
 
 To be updated...
