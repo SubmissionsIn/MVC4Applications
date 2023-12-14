@@ -1,4 +1,4 @@
-![image](https://github.com/SubmissionsIn/MVC4Applications/assets/59791286/0fbe67d5-0cad-46ac-9950-4701ccf32f8e)# MVC4Applications
+# MVC4Applications
 This repository lists related work using MVC methods for applications. We hope to investigate the special issues in application scenarios of multi-view clustering analysis, to achieve the future improvements on MVC algorithms for this community, so feel free to contact me in this repository for updating (recommended paper, datasource, code...).
 
 ## Recommended papers:
